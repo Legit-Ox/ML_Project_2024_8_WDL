@@ -1,4 +1,4 @@
-Sure, here's the code for adding the names and GitHub links of the four contributors to the README file:
+#Team Members:
 
 - [Jash Parikh](https://github.com/Jash7447)
 - [Saahil Doshi](https://github.com/Legit-Ox)
