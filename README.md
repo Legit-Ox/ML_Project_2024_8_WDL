@@ -1,4 +1,4 @@
-#Team Members:
+## Team Members:
 
 - [Jash Parikh](https://github.com/Jash7447)
 - [Saahil Doshi](https://github.com/Legit-Ox)
